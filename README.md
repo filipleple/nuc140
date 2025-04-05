@@ -8,9 +8,9 @@ If not present, the Docker image is built automatically from the local
 
 ## Usage
 
-1. Copy `FirstExample` to `YourProjectName`
-2. Modify it (code, memory map, etc.)
-3. Build:
+1. Create a new project using `./init.sh YourProjectName`
+1. Work on the new project
+1. Build the new project using `./build.sh`
 
 ```sh
 ./build.sh YourProjectName [target]
