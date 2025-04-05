@@ -17,4 +17,4 @@ if ! docker image inspect "$IMAGE" > /dev/null 2>&1; then
 fi
 
 # Run build inside the container
-docker run --rm -u $UID -v "$(pwd)":/workdir -w "/workdir/$PROJECT/Debug" "$IMAGE" make "$TARGET"
+docker run --rm -u $UID -v "$(pwd)":/workdir -w "/workdir/$PROJECT/Build" "$IMAGE" make "$TARGET"
