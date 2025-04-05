@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1134737519/PATH/delimiter=\:
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1134737519/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1134737519/PATH/value=/home/flewinski/local/Toolchain/GNU Arm Embedded Toolchain/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux/bin\:/usr/lib64/ccache\:/home/flewinski/.cargo/bin\:/usr/local/bin\:/usr/local/sbin\:/usr/bin\:/usr/sbin\:/var/lib/snapd/snap/bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1134737519/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1134737519/appendContributed=true
